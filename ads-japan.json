@@ -5,7 +5,7 @@
   },
     "github": {
     "username": "LugoStudioGames",
-    "repository": "anime-wallpaper",
+    "repository": "japan-wallpaper",
     "branch": "main"
   },
   "settings": {
@@ -27,12 +27,12 @@
     "backup_ads": "admob",
     "ads_unit_id": {
       "admob": {
-        "publisher_id": "ca-app-pub-7814511321784748~1367573510",
-        "app_open_id": "ca-app-pub-7814511321784748/5241076207",
-        "banner_id": "ca-app-pub-7814511321784748/1997558089",
-        "interstitial_id": "ca-app-pub-7814511321784748/8306223240",
-        "rewarded_id": "ca-app-pub-7814511321784748/5577710448",
-        "native_id": "ca-app-pub-7814511321784748/3143118799"
+        "publisher_id": "ca-app-pub-7814511321784748~00000",
+        "app_open_id": "ca-app-pub-7814511321784748/00000",
+        "banner_id": "ca-app-pub-7814511321784748/000000",
+        "interstitial_id": "ca-app-pub-7814511321784748/000000",
+        "rewarded_id": "ca-app-pub-7814511321784748/000000",
+        "native_id": "ca-app-pub-7814511321784748/00000"
       },
       "google_ad_manager": {
         "app_open_id": "/6499/example/app-open",
@@ -105,3 +105,4 @@
     }
   }
 }
+
